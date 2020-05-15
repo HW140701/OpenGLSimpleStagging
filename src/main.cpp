@@ -1,7 +1,7 @@
 #define GLUT_DISABLE_ATEXIT_HACK
 
-#include "glew.h"
-#include "freeglut.h"
+#include <GL/glew.h>
+#include <GL/freeglut.h>
 #include <iostream>
 
 static float roangles;
