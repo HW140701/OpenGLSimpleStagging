@@ -90,7 +90,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>.././third/freeglut/include;.././third/glew/include;.././third/glfw/include;.././third/glad/include;.././third/stb_image;../third/assimp/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>.././third/freeglut/include;.././third/glew/include;.././third/glfw/include;.././third/glad/include;.././third/stb_image;.././third/assimp/include;.././third/glm/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <AdditionalLibraryDirectories>.././third/freeglut/lib/$(Platform)/;.././third/glew/lib/Release/$(Platform)/;.././third/glfw/lib/$(Platform)/lib-vc2015;.././third/assimp/lib/$(Platform)/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
@@ -102,7 +102,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>.././third/freeglut/include;.././third/glew/include;.././third/glfw/include;.././third/glad/include;.././third/stb_image;../third/assimp/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>.././third/freeglut/include;.././third/glew/include;.././third/glfw/include;.././third/glad/include;.././third/stb_image;.././third/assimp/include;.././third/glm/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <AdditionalLibraryDirectories>.././third/freeglut/lib/$(Platform)/;.././third/glew/lib/Release/$(Platform)/;.././third/glfw/lib/$(Platform)/lib-vc2015;.././third/assimp/lib/$(Platform)/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
@@ -116,7 +116,7 @@
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>.././third/freeglut/include;.././third/glew/include;.././third/glfw/include;.././third/glad/include;.././third/stb_image;../third/assimp/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>.././third/freeglut/include;.././third/glew/include;.././third/glfw/include;.././third/glad/include;.././third/stb_image;.././third/assimp/include;.././third/glm/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
@@ -132,7 +132,7 @@
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>.././third/freeglut/include;.././third/glew/include;.././third/glfw/include;.././third/glad/include;.././third/stb_image;../third/assimp/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>.././third/freeglut/include;.././third/glew/include;.././third/glfw/include;.././third/glad/include;.././third/stb_image;.././third/assimp/include;.././third/glm/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
